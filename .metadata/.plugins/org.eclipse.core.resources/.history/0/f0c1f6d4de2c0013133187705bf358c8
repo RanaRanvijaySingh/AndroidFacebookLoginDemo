@@ -40,7 +40,6 @@ public class MainActivity extends Activity {
 										TextView textViewWelcome = (TextView) findViewById(R.id.welcome);
 										textViewWelcome.setText("Hello "
 												+ user.getName() + "!");
-										//this is now modified
 									}
 								}
 							});
